@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jsmWxXEboRoFHWCZM+5NRzOJr+WI+GB/wAkRpBpstWE=",
+  "Source": "StripPayments",
+  "BasePath": "_content/StripPayments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
